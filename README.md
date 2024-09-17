@@ -1,3 +1,4 @@
+live-preview: https://karam-todos-list.netlify.app/
 # Todo List
 
 A To-Do List application using React.js that allows users to add, remove, and mark tasks as complete. Connect the app to the JSONPlaceholder REST API to fetch and save tasks.
